@@ -1,0 +1,13 @@
+name = "Simple Drills"
+filename = "Fabric-SimpleDrills-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hcLATe7l/versions/bgbPC2st/Fabric-SimpleDrills-1.5.jar"
+hash-format = "sha512"
+hash = "e173e88dbfdf15dc495554b133f8037b626e12ec5735d6e87ee5f272b78de48167c54482e48445122b224bd34b257ee4b4d872d39182b5e2dca75891736afea2"
+
+[update]
+[update.modrinth]
+mod-id = "hcLATe7l"
+version = "bgbPC2st"

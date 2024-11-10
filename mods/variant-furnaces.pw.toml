@@ -1,0 +1,13 @@
+name = "Variant Furnaces"
+filename = "variantfurnaces-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ac5I93w9/versions/Qce3c1Gi/variantfurnaces-1.2.1.jar"
+hash-format = "sha512"
+hash = "6e5af38661a069e7aa7e6449aaff1d7b11f72c87b2196a59e6a2ff0bf182019bb0a9aca95aa2088f2166d0352fc884e2f635350f88c5528430c9778bd153cef3"
+
+[update]
+[update.modrinth]
+mod-id = "ac5I93w9"
+version = "Qce3c1Gi"

@@ -1,0 +1,13 @@
+name = "Modpack Vish"
+author = "Felipe (flipeip)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7234bead6f958599adffeeec594a2d88099b51123c722bdd7d71521992321622"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

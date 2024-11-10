@@ -1,0 +1,13 @@
+name = "Miner's Luck"
+filename = "MinersLuck-1.0-1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsatkzL1/versions/XMpNnzwK/MinersLuck-1.0-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "bc33228fa39e750c47c2c79588276ff507b80ebefa598256827c6bc42615f7781f23dfd6b857bdbc78397e49b4662870c52840d5f6397f2a31e1ad96ddf29385"
+
+[update]
+[update.modrinth]
+mod-id = "IsatkzL1"
+version = "XMpNnzwK"

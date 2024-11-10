@@ -1,0 +1,13 @@
+name = "Veinminer"
+filename = "VeinminerMod-1.20.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnavVAzj/versions/USdRVdjo/VeinminerMod-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "5ac7066d8de1f568d3a3c0562b887855fbaaf9b954804d00fdbb9c76b9fffb3b1e9b3bebdc5f577ccf15c92d775b5be84402617c6f883f15fed39a38a3253ed6"
+
+[update]
+[update.modrinth]
+mod-id = "MnavVAzj"
+version = "USdRVdjo"
