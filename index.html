@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt_BR">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,16 +8,36 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
         <style>
+            :root {
+                --cor: rgb(20, 127, 82);
+            }
+
             main {
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 2rem 5rem;
             }
+
             header {
                 border-bottom: 1px solid black;
             }
+
             section {
                 padding-top: 2rem;
+            }
+
+            button {
+                background-color: var(--cor);
+                border-color: var(--cor);
+            }
+
+            a {
+                color: var(--cor);
+            }
+
+            img {
+                max-width: 300px;
+                margin-bottom: 4rem;
             }
         </style>
     </head>
@@ -30,13 +50,27 @@
                 <h2>Instalação</h2>
                 <section>
                     <h3>Launcher</h3>
-                    <p>Baixe e instale o <a href="https://prismlauncher.org/download/windows/">Prism Launcher</a> para contas originais ou o <a href="https://github.com/unmojang/FjordLauncher/releases/latest/">Fjord Launcher</a> para o login com Ely.by.</p>
-                    <a href="https://prismlauncher.org/download/windows/"><button>Prism Launcher</button></a> <a href="https://github.com/unmojang/FjordLauncher/releases/latest/"><button>Fjord Launcher</button></a>
+                    <p>Baixe e instale o <a href="https://prismlauncher.org/download/windows/">Fjord Launcher Unlocked</a>:</p>
+                    <a href="https://github.com/hero-persson/FjordLauncherUnlocked/releases/latest/"><button>Baixar Launcher</button></a>
                 </section>
+
+                <section>
+                    <h3>Configurar conta</h3>
+                    <p>Para contas <strong>originais</strong>, adicione uma conta da Microsoft normalmente na instalação do Launcher, seguindo o passo a passo.</p>
+
+                    <p>Para contas <strong>Ely.by</strong>, faça a instalação do launcher sem adicionar uma conta da Microsoft, clique no <strong>seletor de contas</strong> e em seguida em <strong>Gerenciar contas...</strong></p>
+                    <img src="assets/images/tutorial-1.png" alt="Clique em 'Gerenciar contas...'">
+
+                    <p>No canto superior direito, clique em <strong>Add authlib-injector</strong>:</p>
+                    <img src="assets/images/tutorial-2.png" alt="Clique em 'Add auuthlib-injector'">
+
+                    <p>Adicione seu usuário e senha, e no campo <strong>Url</strong> copie e cole: <kbd>https://account.ely.by/api/authlib-injector</kbd>.</p>
+                </section>
+
                 <section>
                     <h3>Modpack</h3>
-                    <p>Baixe o <a href="vish_modpack.zip">modpack</a>, depois arraste o arquivo para a janela do launcher que você baixou.</p>
-                    <a href="vish_modpack.zip"><button>Baixar Modpack</button></a>
+                    <p>Baixe o <a href="assets/files/Vish%20Modpack.zip">modpack</a>, depois arraste o arquivo para a janela do launcher:</p>
+                    <a href="assets/files/Vish%20Modpack.zip"><button>Baixar Modpack</button></a>
                 </section>
             </section>
         </main>
