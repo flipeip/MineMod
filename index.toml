@@ -26,6 +26,11 @@ hash = "999898de55bf75c6ca35908cbecf65947fb3cc2caf42e5a21b0ef0a9775b9c2c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "b977041d4ddd1f03e5be5c27cbae9fcfc8a6a5255edbb2933d6dea46651e86db"
 metafile = true
@@ -178,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/default-skill-trees.pw.toml"
 hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
