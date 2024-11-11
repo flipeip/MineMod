@@ -12,14 +12,19 @@
                 --cor: rgb(20, 127, 82);
             }
 
-            main {
+            main, footer {
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 2rem 5rem;
             }
 
             header {
-                border-bottom: 1px solid black;
+                border-bottom: 1px solid lightgray;
+            }
+
+            footer {
+                padding: 0 5rem;
+                border-top: 1px solid lightgray;
             }
 
             section {
@@ -31,7 +36,7 @@
                 border-color: var(--cor);
             }
 
-            a {
+            a, button.button-clear {
                 color: var(--cor);
             }
 
@@ -41,6 +46,7 @@
             }
         </style>
     </head>
+
     <body>
         <main>
             <header>
@@ -74,5 +80,12 @@
                 </section>
             </section>
         </main>
+
+        <footer>
+            Vish Minecraft
+            <a href="https://discord.gg/SuThHf7RsK"></a><button class="button-clear">
+                Discord
+            </button></a>
+        </footer>
     </body>
 </html>
