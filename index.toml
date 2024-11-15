@@ -396,6 +396,11 @@ hash = "752c3a959b3876308515a053d90ee632b4ebedc2f021f9ee79c57f1eafdbdff8"
 metafile = true
 
 [[files]]
+file = "mods/notes.pw.toml"
+hash = "3de765a444586708b33aa1cbe2c377833681127068b86b22c8918affa3e86ee5"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
