@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "assets/files/Vish Modpack.zip"
-hash = "4cbecae0251c7fdcc59f2ea9118832c0c4a1578653574edb9cf526ab59caa0e0"
-
-[[files]]
-file = "assets/images/tutorial-1.png"
-hash = "1deac23a20e94561a383445048aebc1ac97fd63cfce74c319706220e72ada56e"
-
-[[files]]
-file = "assets/images/tutorial-2.png"
-hash = "10de146fd3f01d966aa706fef4b4fda201ed3fe33a080fac1881f2643ae7346f"
-
-[[files]]
-file = "index.html"
-hash = "c86072a34fb335bbbed863542b921a1ff1b73cf727140e935855280128edceb3"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
 metafile = true
@@ -509,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/sessility.pw.toml"
 hash = "0ef2eb9748a1a7befcf08659d42fb8fff2dc80c6ce99428998063a7d4c07b5e3"
-metafile = true
-
-[[files]]
-file = "mods/sgtveinminer.pw.toml"
-hash = "c6efe33664a31bab02fcf306425117fda192eece78251875db7f356ceeff148a"
 metafile = true
 
 [[files]]

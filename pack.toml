@@ -4,10 +4,13 @@ version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "index.toml"
+file = "modpack/index.toml"
 hash-format = "sha256"
-hash = "f30fedf8a7914cdd9a06b329a12c929fc3d2fd78273ce3f0605eca4f439d3a7e"
+hash = "e817650140c7a1a58013fd7c716166395a52f64d7e6e345aa112b5890c3fd198"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.20.1"
+
+[options]
+meta-folder-base = "modpack"
