@@ -1,4 +1,4 @@
-name = "Modpack Vish"
+name = "Modpack Vix"
 author = "Felipe (flipeip)"
 version = "1.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "modpack/index.toml"
 hash-format = "sha256"
-hash = "e817650140c7a1a58013fd7c716166395a52f64d7e6e345aa112b5890c3fd198"
+hash = "483fdbe6acde6282464818faf3e1a652b6509c14ec28e82c2f6a37eef4293cfb"
 
 [versions]
 fabric = "0.16.9"
