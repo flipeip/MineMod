@@ -196,11 +196,6 @@ hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "1c1d11e16481c35f403693617dd78c48f3777599bcd5d8318bbf379484a61f5e"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
@@ -328,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "61e99f6b5434e0bf97eb7910fa29eb5eed50ba2d2d65f6ccca66361c240b6a6d"
 metafile = true
 
 [[files]]
