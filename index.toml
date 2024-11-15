@@ -296,6 +296,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
@@ -503,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "c75988a3bfb8a6d7c18a73e8c27dfcf240c32a844bff55ddd623d3fc4bc29844"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "c947bebe8c06554d2364c11c024d7ce81bcb8c8925830f2463e564b0da3db94d"
 metafile = true
 
 [[files]]
