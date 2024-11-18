@@ -186,6 +186,16 @@ hash = "c92aae37a2b79c96ac72e17695d1bcbdc35ca51d56f0fb8d1d9ffa9dace45274"
 metafile = true
 
 [[files]]
+file = "mods/cutetrade.pw.toml"
+hash = "a047f0104e67898e4d0961729aa941eac5c4a4ced511cb55a9b07237aee04699"
+metafile = true
+
+[[files]]
+file = "mods/cutetranslationapi.pw.toml"
+hash = "0b7bf33784026367523e92cfc863ca408ca1f0b2eb598aac57f75a65f13249d4"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true

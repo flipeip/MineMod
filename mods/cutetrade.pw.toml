@@ -1,0 +1,13 @@
+name = "CuteTrade"
+filename = "cutetrade-1.2.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MsxESBog/versions/qhW5PV6B/cutetrade-1.2.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "8482bfa92a87457737828a414e6551898f25149467f07314bb8d3f5639a73da4c2a57fc12f93956be62d6aac797a190625b5f69654c810c9e4f83064ee76d040"
+
+[update]
+[update.modrinth]
+mod-id = "MsxESBog"
+version = "qhW5PV6B"
