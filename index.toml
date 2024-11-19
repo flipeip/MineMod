@@ -186,11 +186,6 @@ hash = "c92aae37a2b79c96ac72e17695d1bcbdc35ca51d56f0fb8d1d9ffa9dace45274"
 metafile = true
 
 [[files]]
-file = "mods/cutetrade.pw.toml"
-hash = "a047f0104e67898e4d0961729aa941eac5c4a4ced511cb55a9b07237aee04699"
-metafile = true
-
-[[files]]
 file = "mods/cutetranslationapi.pw.toml"
 hash = "0b7bf33784026367523e92cfc863ca408ca1f0b2eb598aac57f75a65f13249d4"
 metafile = true
@@ -403,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "0b13868ab8144ac650ba81cdba438bb128f01b8bea153941a04e3633ec7640ed"
+metafile = true
+
+[[files]]
+file = "mods/no-portals.pw.toml"
+hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
 metafile = true
 
 [[files]]
