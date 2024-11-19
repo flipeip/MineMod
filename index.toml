@@ -441,11 +441,6 @@ hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
-file = "mods/playit-gg.pw.toml"
-hash = "cd4d426067abd7187e604116242d686672d346cd15cdeb93cf1ff2bf39e2f161"
-metafile = true
-
-[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true
