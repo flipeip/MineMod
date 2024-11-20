@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/SOJ4DVD4/archers-1.2.5%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "dde9c908c61a247ddf6505d1b7338b864428c743dfde582db7f26e0701eb197818ce0304a20613380c17328676595ef1dbecf41390920758f0a9eb94fe6549f2"
+hash-format = "sha256"
+hash = "0f1a0eeddc735cb44c996ab01044a163ab9857e5ad5bdf29bd5144f067f9a122"
 
 [update]
 [update.modrinth]

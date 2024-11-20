@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/PoP2eGwB/movingelevators-1.4.10-fabric-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "6730a05b1797b862958936c5782cd7544fd3f7e1106795465fdc5fb62d7e9b909476eba81e952d65d9ab6a850f069cb843fd0c9f8f44ae4e2310237756a8f2ed"
+hash-format = "sha256"
+hash = "d69736d93c96dee2eb285c61f53bcd661df33c241ba844defd51e8f453f09b8c"
 
 [update]
 [update.modrinth]

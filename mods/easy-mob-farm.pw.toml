@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/crxsDbEo/versions/AY26RZ0M/easy_mob_farm-fabric-1.20.1-8.2.0.jar"
-hash-format = "sha512"
-hash = "6aea8cf72b69d7875843de9278534787bf60b15375461efa972396739f4df1250e9ceae53e3d779afb265caf303a4e26e53118919a28c240a867b82b1cc2bf36"
+hash-format = "sha256"
+hash = "306c720c3229411994fabbe79324cd5d716c0c2b8e32b3e889236bdf9a355129"
 
 [update]
 [update.modrinth]

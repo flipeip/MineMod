@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sxK5ColG/versions/dQJEjkGX/screenshot-manager-2.1.0.jar"
-hash-format = "sha512"
-hash = "7ee3fca7927f57a1e0bbc426410983b0de0b4874f1da329458433c374cbd4266b8850a12235392a908f60811b2541de1634ad1a834928141f4d25495d06d96b3"
+hash-format = "sha256"
+hash = "49557c0e05b0533359c881d40acfaa53bf0aae1855df564a9292649e59222e1b"
 
 [update]
 [update.modrinth]
