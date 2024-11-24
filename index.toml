@@ -201,11 +201,6 @@ hash = "e6bbb15a05f7562f673f4493caa541fcad71c4f6131b1f3ff17775f661a62545"
 metafile = true
 
 [[files]]
-file = "mods/easyauth.pw.toml"
-hash = "8b71a9adc5c815d98a02bb770793fa795616982b72577e3b314f0d3f855eb205"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "938ac0d044bf68cc2e73a2ac8966eaaa498606f18861647cb702342bd2aba4c4"
 metafile = true
@@ -403,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3035ee8fa01072374534de0f4e04547891c86b23478a64e135dde837b39bbb8d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "953d390eb2bcb2569c3aef7a872db9fb84091ff88244f8bbcb64eed5ce306cd1"
 metafile = true
 
 [[files]]
