@@ -281,6 +281,11 @@ hash = "7c9267e3d22684b8fb619f86fb0d7e656297e58f2d96583929e2d5d0511374e1"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "2bb6f5fbb5229dad410f52ae1e399156f65a43bec8fbb974ca3df7f1b5fdac88"
 metafile = true
@@ -561,11 +566,6 @@ hash = "f3b12ae3f1c65ac1a8cbd531f71a3ae5a0ba5b929d650532e9c1be99f772199f"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "2371abdf7b1a75b8b038bb4bc836031ecea638806459d374b1f4fc1c5b768542"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "418de8f29fdec63dfbb59c41a0f8a94dd5ad57b78a9c05e4e0c5266bc1f95f80"
 metafile = true
@@ -593,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/variant-furnaces.pw.toml"
 hash = "7b0d9f2cc1b1fb1fef8cf7d5e0f064d5265765347792903c6cfeb4262e232fe3"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "bc4ae2af677d043dd3388111810032c39090376573aead02b4be9513459585ed"
 metafile = true
 
 [[files]]
