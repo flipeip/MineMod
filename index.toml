@@ -436,6 +436,11 @@ hash = "21baee5716cb54f437de4e8cbc36161b4801f38055ef6f229d4c324873430eb5"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "dc8a98026a13e4e808fec7e4511e1cddc2edacfa52e93ec6173dfc60e02c331f"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "93dfdefce369e1735e8af7d4e476599756e957ddd73f88762cb089a32cbde4dd"
 metafile = true
