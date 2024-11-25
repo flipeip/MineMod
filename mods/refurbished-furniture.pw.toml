@@ -3,8 +3,8 @@ filename = "refurbished_furniture-fabric-1.20.1-1.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "30d4f3485d07da4984db71b565a24230978a2ea61aa741ae7516811b50f6d067"
+hash-format = "sha1"
+hash = "75852b2ed325ca59060d40f47fd10d3ff6763368"
 mode = "metadata:curseforge"
 
 [update]

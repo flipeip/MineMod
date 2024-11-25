@@ -3,8 +3,8 @@ filename = "framework-fabric-1.20.1-0.7.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c878ee23fda20dee8beccd844fa37a654b5ec45608e5c8d530721a8ae5b72e88"
+hash-format = "sha1"
+hash = "ec2069559b58ab8516bf12f40c6e9e10eabe1d2d"
 mode = "metadata:curseforge"
 
 [update]

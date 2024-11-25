@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/IsatkzL1/versions/XMpNnzwK/MinersLuck-1.0-1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "5790ba291e197c7ffce6ea80857e749da922a40e84e9f6340b5c54c3ed3ce188"
+hash-format = "sha1"
+hash = "46ba53e0681d11326f0751563f49d52e2a602946"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AtB5mHky/versions/YALpdzXL/watut-fabric-1.20.1-1.1.3.jar"
-hash-format = "sha256"
-hash = "a3196ce461278a29aca4d569d8c7f61d5d024d738953e75dd6fd780738210cec"
+hash-format = "sha1"
+hash = "d63730c396facad323bfbba381367275dc6d9061"
 
 [update]
 [update.modrinth]

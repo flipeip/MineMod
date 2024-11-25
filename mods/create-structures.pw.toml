@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar"
-hash-format = "sha256"
-hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
+hash-format = "sha1"
+hash = "b0adac5af2734590d57e86a270a343abb74dfed4"
 
 [update]
 [update.modrinth]

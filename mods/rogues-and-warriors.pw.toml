@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3MKqoGuP/versions/Zv9heBzC/rogues-1.1.0%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "fb1b97882d16fd9375d05bdc6996e2b2f6d8e7d7d418cf08bd3a89cf7f318b43"
+hash-format = "sha1"
+hash = "927fb01c05fa96adad72e9d88f3c945dcf638585"
 
 [update]
 [update.modrinth]

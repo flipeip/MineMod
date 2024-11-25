@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
-hash-format = "sha256"
-hash = "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018"
+hash-format = "sha1"
+hash = "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
 
 [update]
 [update.modrinth]

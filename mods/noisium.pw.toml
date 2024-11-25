@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar"
-hash-format = "sha256"
-hash = "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d"
+hash-format = "sha1"
+hash = "be85535cf1efe82bd8c41bcf851becaad498a598"
 
 [update]
 [update.modrinth]

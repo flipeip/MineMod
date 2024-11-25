@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/G05u0Ety/versions/Gbu3Yyci/hauntfurnace-fabric-1.20.1-0.3.3.jar"
-hash-format = "sha256"
-hash = "b6c445bf5438d1c37bef69439c7c1b28c5534fb5e698432be0202f1182216f7b"
+hash-format = "sha1"
+hash = "9b73334283f4ac215be6f510ea45edafd3a5002b"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/74g7isNi/versions/NbeWhN2Q/ultreon-lib-fabric-1.5.0.jar"
-hash-format = "sha256"
-hash = "5fe44d3b3c6df050bfb1efa776409c04c2a6a52f10f6c78b288d02bb171e91c1"
+hash-format = "sha1"
+hash = "6aef4ad33dc8bf14f71a1ad11794c36b59fd1734"
 
 [update]
 [update.modrinth]

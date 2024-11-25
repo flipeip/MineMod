@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ohNO6lps/versions/CtENDTlF/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
-hash-format = "sha256"
-hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+hash-format = "sha1"
+hash = "2ba4a6149362dbbf81288f393f0022ee9fb07302"
 
 [update]
 [update.modrinth]

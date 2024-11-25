@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/AsjPpia1/versions/dDZVCrf6/fabric-chunkpregen-0.3.7.jar"
-hash-format = "sha256"
-hash = "cb58fb4ac232b6b76b371bf0332372954348b525879f9bc3c2a094bdafb5c744"
+hash-format = "sha1"
+hash = "fb16998e61d06f24fb33a9d5d4f8f46a38cb31e3"
 
 [update]
 [update.modrinth]

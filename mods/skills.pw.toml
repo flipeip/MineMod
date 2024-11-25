@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/J5S9ZJoM/puffish_skills-0.14.1-1.20-fabric.jar"
-hash-format = "sha256"
-hash = "60e6eadce9024ed03504cb3c43d9aadf99114e1dfc2ae098f9672e8b72db324d"
+hash-format = "sha1"
+hash = "cc7dc588f667ed05a941d24f32278bfcaf89ae04"
 
 [update]
 [update.modrinth]

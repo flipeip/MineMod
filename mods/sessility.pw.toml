@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/G9rHXWug/versions/chJCL52v/sessility-0.3.jar"
-hash-format = "sha256"
-hash = "9d5bf0bd7425d0462671d71782d11769998fbca6d8d7e38172b2f69df1c35c30"
+hash-format = "sha1"
+hash = "23579698cf4a8cc9fd2532c99efd2795e91d5d49"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mPg0PTH3/versions/oTZkEDGo/restApi-0.10.1-1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "f1f5b2a232a8d8b648a92f87b1672b347a1c44976ff58ffaed888b456ea1c4f4"
+hash-format = "sha1"
+hash = "bb6ca2dffb19e1f237b387851c7f35d8cccc9c22"
 
 [update]
 [update.modrinth]

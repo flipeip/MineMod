@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EO8aSHxh/versions/sXx5EPib/eureka-1201-1.5.1-beta.3.jar"
-hash-format = "sha256"
-hash = "aad3679ebda20adc120c9a7a07a34d676908c1d92c6c2a6831c808c33c383dac"
+hash-format = "sha1"
+hash = "8100f4117fe236343b6f03d8f03e0d9fd8322919"
 
 [update]
 [update.modrinth]

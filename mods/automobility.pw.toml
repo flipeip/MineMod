@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "c92e4b3936dbb29009cb32b7954bbf9b7b2b2026018897070f863f4e01bcc30a"
+hash-format = "sha1"
+hash = "c820b82890d0192ccf1e8bc05d1ff081bc5954b7"
 
 [update]
 [update.modrinth]

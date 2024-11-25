@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tcb6Gs0z/versions/y0pPydmm/create-compat-betterend-betternether-1.1.jar"
-hash-format = "sha256"
-hash = "64ba82fc1a75dba8a89698e025c234fadef5a8fd3248c5b47dbebd8a90a596eb"
+hash-format = "sha1"
+hash = "5c99aff50cb3ce8e23b0b5bfe7d6bcf7a3b0d407"
 
 [update]
 [update.modrinth]

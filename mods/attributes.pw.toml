@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FCFcFw09/versions/MT90rE2n/puffish_attributes-0.6.2-1.20-fabric.jar"
-hash-format = "sha256"
-hash = "28169e10dc7163627f935c796f9de6128a66bbf70729ac470a9235590b5c72ae"
+hash-format = "sha1"
+hash = "9ed364acffc650149dd823d28c92f7e0ab44ad73"
 
 [update]
 [update.modrinth]
