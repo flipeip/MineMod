@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-mc1.21.1-neoforge-4.0.0-beta42.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/2Ao5UgLi/automodpack-mc1.21.1-neoforge-4.0.0-beta42.jar"
+hash-format = "sha512"
+hash = "45157d5f045cff4a917094e4cb1108c8c337094ee7e33c2d654c190a9aeb638ae6896df076dde8d06a8272f4484fa2ba95a6129e8ce226583e1eaca46a7f6ae5"
+
+[update]
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "2Ao5UgLi"

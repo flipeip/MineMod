@@ -1,13 +1,16 @@
-name = "Modpack Vix"
-author = "Felipe (flipeip)"
-version = "1.0.1"
+name = "Modpack 2025"
+author = "flipeip"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f19deb33f37cc5a20ee492670fc78d356ceaa596a6c8385462976539ced3637"
+hash = "0d1eacf60f1594a023616165964a3d5bcb8b7858361d19d4a3c1b43f02a3f2f9"
 
 [versions]
-fabric = "0.16.9"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.10.20-beta"
+
+[options]
+acceptable-game-versions = ["fabric"]

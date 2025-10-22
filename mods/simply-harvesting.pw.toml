@@ -1,0 +1,13 @@
+name = "Simply Harvesting"
+filename = "SimplyHarvesting-1.21-3.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4FVY4ll/versions/Dh57DH4K/SimplyHarvesting-1.21-3.0.0.jar"
+hash-format = "sha512"
+hash = "55a5e43fcc6abf5ac1daf63071b5c199ed74ae4c3d96a92e61eb73995ae370970ecacf66377f32763e96c4296d1cea524ce927281533196492a7a230a19d6249"
+
+[update]
+[update.modrinth]
+mod-id = "P4FVY4ll"
+version = "Dh57DH4K"
