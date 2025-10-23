@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/nRcJEgNo/simplyswords-neoforge-1.62.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "5ec41c999ae221bcea68aee3b10b38734bd16a640597e589e6ee5ab00998f35b3076712b9eccf3d7107ca70d157762484e3897b0e8d4bd953cff19c93a73ea87"
+hash-format = "sha256"
+hash = "02f9a9bedf9939f946d81fcfd654ed5e85c821c49e2f37b34996fb4eb460559a"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/ygKiHadA/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
-hash-format = "sha512"
-hash = "8c73b73a335ff1a788ef187dc68ad1225e21fd9230e0f2d7b768969383f799b053a0e1ec01cfd98b1980dc4b98db2a1c764c00739f58336714b7d982dc254424"
+hash-format = "sha256"
+hash = "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d"
 
 [update]
 [update.modrinth]

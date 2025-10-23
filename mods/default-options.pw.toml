@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/WEg59z5b/versions/akQv5d1t/defaultoptions-neoforge-1.21.1-21.1.5.jar"
-hash-format = "sha512"
-hash = "bef82a4a4340a82771ada80c483677b544f8295cdb8c8ec63953fcc4e67aae281e6d68bdaff55647a1908ff68788203d6b45d0d28229eaeaac8000a7a3f36acf"
+hash-format = "sha256"
+hash = "4786febd772af563ad8b960f9d4c0202252af14af227cb948fb7b65c7aa65a44"
 
 [update]
 [update.modrinth]

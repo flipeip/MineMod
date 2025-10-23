@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/Adq170b8/immersive_aircraft-1.4.1%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "6b8ec841d3f8ba46c34404845fb99b106f9bcb30de14b70a7be387202a356736691302984e91fc4b9de51737e0d8c576a6aba234d0caf35b5cab97116d509f8c"
+hash-format = "sha256"
+hash = "cf956d7084f66f020a28b09a1fedb79ad34031bc0dbbb48538b7b6dbf0667a88"
 
 [update]
 [update.modrinth]

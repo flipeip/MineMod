@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/UOZia0QY/movingelevators-1.4.11-neoforge-mc1.21.jar"
-hash-format = "sha512"
-hash = "6773a74944d9c412b469006f3aec05ea0ad2199278f331bce98e721e035c6b1f262a229820cccd5f82e0a3e6cfc6b5881fd0342e7af0e4d0146eef50a5ca29de"
+hash-format = "sha256"
+hash = "1387c491ebace1c70d610adda41e2535e9930a49a946bcac3aae888c4d1df253"
 
 [update]
 [update.modrinth]

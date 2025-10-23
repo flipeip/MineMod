@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4fb7lmRe/versions/8GMeVRh2/Engineers%20Delight%201.21.1%20neoforge%20R.1.5.jar"
-hash-format = "sha512"
-hash = "232fb098a8bc7b4f4bcdfc0d738d3e9057b5ee2b69156978adefc270b01ba322288c7712bd1d568ca703af963707368c7404a490941ffe9c3e7b1f7682f182e9"
+hash-format = "sha256"
+hash = "b34de992fda6898e567e44dd3367bad3cfeb6d27f70ed3adc59aef16409a7850"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rlloIFEV/versions/a3VUPlc1/travelersbackpack-neoforge-1.21.1-10.1.26.jar"
-hash-format = "sha512"
-hash = "ddead98d8529e953551d37db5d99f50e8ff028ea8b3be48fd6a75ad6dab521427c226971afd768b71be173e866f173c0396bc0ea14520248bd086435919fec28"
+hash-format = "sha256"
+hash = "adb5f1ef2ec24fe04848d201e8c3f2ec057e42616b5c2e31b70a531ca83b7a42"
 
 [update]
 [update.modrinth]
