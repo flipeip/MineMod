@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "06acd65e044b73fe63faebd43a11de19217434ee25d4d2b900ffc95e60856ec8"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "82c7d32e821dfbce878c5720634f723c967203a03d236653da44cbafd9efc973"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "283375e4806be2ee45732071ae06ee8371176a3983bb0eebb12f4a670f3b1de8"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "0be5c714afe29d85484afeeb7f6b978b0ace404466a992425e8b60fa8f17b4b9"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "cc949b186343c0c613677ed352f79d3db7bd2d30feee1a16730482fd5c133577"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
+
+[[files]]
+file = "config/fancymenu/customization/changelog_layout.txt"
+hash = "7abb9eafe3f47e446de441c134c5b4e85cbe79f99c6a5986d800adcc1e49ba03"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "f42343d14fee41aed3c08e1487485ff4b28b886c7ba61d54f2a4de29bcbe5c8f"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "fb6eb8f6cf2810d10820d6b3c2ddc089e91dbead0c70be8d6b98b5540f3df7f4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "74c6e6ed0d63317f8163cd5016a5bf87f21ad8c6465e01b2f7bf539bdaee2869"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/normalized_scroll_screens.json"
+hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "6e7a7781df70651928eaf4c166a3d68890994f86df4135a4b38a6e2aa4592aa1"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
@@ -22,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
 
 [[files]]
