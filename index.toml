@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "06acd65e044b73fe63faebd43a11de19217434ee25d4d2b900ffc95e60856ec8"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "82c7d32e821dfbce878c5720634f723c967203a03d236653da44cbafd9efc973"
 
