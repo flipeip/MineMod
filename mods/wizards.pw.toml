@@ -1,0 +1,13 @@
+name = "Wizards (RPG Series)"
+filename = "wizards-neoforge-2.6.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/8YkJByat/wizards-neoforge-2.6.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6f5b9ccbc409481168435c668959f4a520066be0fa4a65e489cf2c1d021d6f9a97b2d5cf54960598a2e9f6802cba3c14f748a8223db3a61f79b4b8d4eb47da9c"
+
+[update]
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "8YkJByat"
