@@ -13,6 +13,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "0be5c714afe29d85484afeeb7f6b978b0ace404466a992425e8b60fa8f17b4b9"
 
 [[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "7f2f932ed9c057a29895b4e0bb3b90f0f8cd71120e1939b6c4a11307120e8fc5"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "cc949b186343c0c613677ed352f79d3db7bd2d30feee1a16730482fd5c133577"
 

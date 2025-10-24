@@ -1,5 +1,5 @@
 .DS_Store
-assets/*
-index.html
-news.md
-CNAME
+/assets/*
+/index.html
+/news.md
+/CNAME
