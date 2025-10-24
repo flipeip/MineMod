@@ -50,7 +50,7 @@ hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6e7a7781df70651928eaf4c166a3d68890994f86df4135a4b38a6e2aa4592aa1"
+hash = "08448fb5418548af48df1c4416cf6a95ab19c04c0a4b31f5bbf2e78e890968af"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
