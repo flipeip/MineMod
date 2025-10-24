@@ -1,4 +1,4 @@
-name = "Modpack 2025"
+name = "MineMod 2025"
 author = "flipeip"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5df3cda02d95225308a4de4684b8470fcf64c11c80be2da1c6ccb690f82811b2"
+hash = "d687170732b2fbb454c115892c50663db1e63c756d6b267957deac59a07899b6"
 
 [versions]
 minecraft = "1.21.1"

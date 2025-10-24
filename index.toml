@@ -532,9 +532,8 @@ hash = "d877a427a1edb3ade42c09ed44a8ed6fe73be3b8ae4555ebc6a240fb641cbde7"
 metafile = true
 
 [[files]]
-file = "mods/structure-pool-api.pw.toml"
-hash = "0ea64f910d027db5581afcfda87743203ba71d5a5f7e904bd728797c7513e46a"
-metafile = true
+file = "mods/structure_pool_api-neoforge-1.2.0+1.21.1.jar"
+hash = "d3221ded7c8dcf6bd0dad309ff6c2b2fc4eee025029153b0efb055cf0d35a80a"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
