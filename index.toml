@@ -223,6 +223,11 @@ hash = "128923d7b4681d796c29162be2c592e54cd62d68f76a87e58f6f10a1a71149f0"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "e7bbad3e030af9a9d0bbc35f62ede52fff316f8bc2d67f86853a9ab338065e07"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "e8071d6476e648232e83b107db133d2ddffc445418c73e21a6f808d4c309bc6f"
 metafile = true
