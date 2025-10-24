@@ -18,6 +18,7 @@ Esta é a lista dos principais mods e uma breve descrição de cada:
 - **Create Slice & Dice** – Ponte entre o Create e Farmer's Delight
 - **Create: Wrencheable Planes** – Usar a chave inglesa do Create para consertar veículos do Immersive Aircraft
 - **Cubes Without Borders** – Modo janela sem borda
+- **Dynamic Lighs** - Tochas iluminam segurando na mão
 - **Double Doors** – Abrir duas portas ao mesmo tempo
 - **EMI (e derivados)** – Ver receitas
 - **Engineers Delight** – Ponte entre Immersive Engineering e Farmer's Delight
@@ -39,6 +40,7 @@ Esta é a lista dos principais mods e uma breve descrição de cada:
 - **Ping Wheel** – Pingar com a rodinha do mouse
 - **Resourcify** – Baixar shaders, texturas e outros direto do mine
 - **Ribbits** – Vilas de sapos fofinhos
+- **RPG Series** - Várias armas e armaduras, skills e outros, com temática de RPG
 - **Screenshot to Clipboard** – Prints vão direto pro CTRL+V
 - **SecurityCraft** – Baús e portas com senha
 - **Simple Voice Chat** – Chat de voz no jogo
