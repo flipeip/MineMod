@@ -48,6 +48,7 @@ Esta é a lista dos principais mods e uma breve descrição de cada:
 - **Sound Physics Remastered** – Efeitos de eco em cavernas e áudio abafado
 - **Storage Drawers** – Estantes com espaço GIGANTE pra itens únicos
 - **The Aether** – O Aether
+- **Tiny Mod Farm** - Mob farm mais simples, porém caras
 - **Tom's Simple Storage Mod** – Sistema de baús conectados
 - **Too Many Binds** – Menu de pesquisa de atalhos do jogo
 - **Traveler's Backpack** – Mochilas diferenciadas

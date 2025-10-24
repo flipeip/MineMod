@@ -357,6 +357,16 @@ hash = "db4a43961cb5ab823da0e27fbe5487a7e277a61cee5c194f42e1edcc498dfe0d"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "c1765e7a5068d5864af904116de3305f3ceb7fba79db89b44f016a837d4f53be"
 metafile = true
@@ -565,6 +575,11 @@ hash = "4eb11828f5ba66e90adcabd3690c2d4788b0e570d9dc03fd544e91168799bb24"
 metafile = true
 
 [[files]]
+file = "mods/tiny-mob-farm-remastered.pw.toml"
+hash = "141dbde23c87ad6ea17d02c3761cfe991902988804cc9def0577172e8aef758f"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "7a0280ff7aad16753e386b927955928d90c022fd3cad4385e956ce57ee7dfc2a"
 metafile = true
@@ -584,6 +599,11 @@ hash = "c9d192b8cf08850969c93795ad4310e1fef3d1e364b4e727ea26db6e5900361d"
 metafile = true
 
 [[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "fcd203d7833e1010941a56f3f8469e8064c87b5e13caa3d16e9ec45bb19cc821"
+metafile = true
+
+[[files]]
 file = "mods/village-taverns.pw.toml"
 hash = "23c96e046c810a914613cff5e5ba3d04f8a93e55e49d7ef645daae8ab65063d6"
 metafile = true
@@ -596,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "d7a8960850402bfa8f92bd9b345d5618c379a35b9a3695a59a6a811e0abe530e"
+metafile = true
+
+[[files]]
+file = "mods/yaml-config.pw.toml"
+hash = "c6c2a2a76d829b51404602366cb2db44a4578f3e3830f6e642c2df995e63f5c2"
 metafile = true
 
 [[files]]
