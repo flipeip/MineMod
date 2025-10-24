@@ -604,6 +604,10 @@ hash = "fcd203d7833e1010941a56f3f8469e8064c87b5e13caa3d16e9ec45bb19cc821"
 metafile = true
 
 [[files]]
+file = "mods/uilib-1.0.1-1.21.1-neoforge.jar"
+hash = "f83594dfe54444c865aa99f4012b545cb1eac0da83088309b2a0fae7205f3308"
+
+[[files]]
 file = "mods/village-taverns.pw.toml"
 hash = "23c96e046c810a914613cff5e5ba3d04f8a93e55e49d7ef645daae8ab65063d6"
 metafile = true
