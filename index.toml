@@ -233,6 +233,11 @@ file = "mods/fabrictailor-2.5.0.jar"
 hash = "e28e3ced145224078c22337828bd62bebbb867758232b5e6bb9221d90a971d6f"
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "3e381c462223da437f386a6f368e734131395f400b24a8cc0406f6e49c84418f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "bd984c7f72387e49f47c82e34dcd5a112bb1f4e7948602e02613a80d4cc176ef"
 metafile = true
@@ -313,6 +318,11 @@ hash = "db4a43961cb5ab823da0e27fbe5487a7e277a61cee5c194f42e1edcc498dfe0d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "284671bdd8c26e21136bbf7b7ed7001a075f103f7d35e6091cf1802764863f78"
 metafile = true
@@ -324,6 +334,11 @@ hash = "9cfef030a7d7694abf8c7d9117fae3848cec7512065b197ac992e135bf5b3a9c"
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "9bf1765bd4831d3da7b0d22ded259e46cc654b5be45105e5e9eeb2d5f9739f7a"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
